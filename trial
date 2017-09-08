@@ -2,3 +2,4 @@
 
 for piraz in library:
   print("porco zio!")
+  return 'boh'
